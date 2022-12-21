@@ -15,3 +15,7 @@ The code is done using for loops to loop through each tab of the excel file
 For loops are also used to loop through all the rows of the excel file
 
 Conditional formating are used to find the max an min
+
+
+
+Here is the link to this repo: https://github.com/neginkanani/HW2
