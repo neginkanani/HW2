@@ -1,4 +1,4 @@
-Teh folowing excel VBA fiel. REads throguh the lines of stock exchange during 2018 till 2020. 
+The folowing excel VBA fiel. REads throguh the lines of stock exchange during 2018 till 2020. 
 
 It finds the yearly exchange, PErcent change and the total stock volume for each ticker symbol.
 
